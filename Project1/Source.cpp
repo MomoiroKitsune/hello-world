@@ -3,5 +3,6 @@ using namespace std;
 void main() {
 	cout << "Hello, World!\n";
 	cout << "This is my attempt to create a repository!\n";
-	cout << "It will be long and painful, but I will manage! Hehehe...";
+	cout << "It will be long and painful, but I will manage! Hehehe...\n";
+	cout << "(help)";
 }
